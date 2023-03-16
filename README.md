@@ -4,7 +4,7 @@ Ruikang Xu, Mingde Yao, Zhiwei Xiong. *Zero-Shot Dual-Lens Super-Resolution*, In
 
 
 ## Description
-Coding coming soon.
+Code coming soon.
 
 
 ## Contact
