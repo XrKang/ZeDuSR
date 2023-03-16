@@ -1,6 +1,6 @@
 Zero-Shot Dual-Lens Super-Resolution
 ====
-Ruikang Xu, Zeyu Xiao, Jie Huang, Yueyi Zhang, Zhiwei Xiong. *Zero-Shot Dual-Lens Super-Resolution*, In CVPR2023. <br/>
+Ruikang Xu, Mingde Yao, Zhiwei Xiong. *Zero-Shot Dual-Lens Super-Resolution*, In *CVPR* 2023. <br/>
 
 
 ## Description
