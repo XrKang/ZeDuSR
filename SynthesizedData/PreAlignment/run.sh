@@ -1,0 +1,1 @@
+python ./sift_align.py --LR_dir '../Data/WideView_iso2x_JPEG75_crop' --Ref_dir '../Data/TeleView_crop' --save_path '../Data/WideView_iso2x_JPEG75_crop_SIFTAlign' --scale 2 
