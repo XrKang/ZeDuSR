@@ -50,8 +50,6 @@ We take 2x downsampling using isotropic Gaussian kernel with slight JPEG compres
 * Synthesized Data Generation:
 ` cd ./SynthesizedData/DataGeneration && sh run.sh `
 
-<br/>
-
 * Pre-Alignment:
 ` cd ./SynthesizedData/PreAlignment && sh run.sh `
 ****
