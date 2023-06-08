@@ -1,4 +1,5 @@
-#Synthesized Data Generation and Pre-Alignment
+Synthesized Data Generation and Pre-Alignment
+====
 ****
 ## Datesets
 * The HCI_new dataset can be downloaded from this [link](https://lightfield-analysis.uni-konstanz.de/).
