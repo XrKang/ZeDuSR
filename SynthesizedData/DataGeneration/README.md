@@ -1,4 +1,5 @@
-#Synthesized Data Generation
+Synthesized Data Generation
+====
 ****
 ## Datesets
 * The HCI_new dataset can be downloaded from this [link](https://lightfield-analysis.uni-konstanz.de/).
