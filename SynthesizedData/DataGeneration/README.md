@@ -18,15 +18,15 @@ You can directly run `sh run.sh` or run script files step by setp:
 * Downsampling wide-angle images:
 
     ` python ./downSample_isoKernel.py --image_path '../Data/WideView_GT' --save_path '../Data/WideView_iso2x' --kernel_path '../Data/kernel_WideView_iso2x' `
-<br/>
+
 * Adding JPEG compression to downsampled images:
 
     ` python ./JPEG_compression.py --image_path '../Data/WideView_iso2x' --save_path '../Data/WideView_iso2x_JPEG75' `
-<br/>
+
 * Cropping the center area of telephoto images:
 
     ` python ./center_crop.py --image_path '../Data/TeleView' --save_path '../Data/TeleView_crop' `
-<br/>
+
 * Cropping the center area of downsampled wide-angle images (Only for alignment of ZeDuSR):
 
     ` python ./center_crop.py --image_path '../Data/WideView_iso2x_JPEG75' --save_path '../Data/WideView_iso2x_JPEG75_crop' `
