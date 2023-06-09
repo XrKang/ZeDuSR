@@ -7,12 +7,12 @@ Zero-Shot Dual-Lens Super-Resolution
 ****
 ## Datesets
 
-### Real-world Datset
+### Real-world Dataset
 * The CameraFusion (by iPhone11) dataset can be downloaded from this [link](https://github.com/Tengfei-Wang/DCSR).
 * The RealMCVSR (by iPhone12) dataset can be downloaded from this [link](https://github.com/codeslake/RefVSR).
 
 
-### Synthesized Datset
+### Synthesized Dataset
 * The HCI_new dataset can be downloaded from this [link](https://lightfield-analysis.uni-konstanz.de/).
 * The Middlebury2021 dataset can be downloaded from this [link](https://vision.middlebury.edu/stereo/data/scenes2021/).
 * Other stereo image datasets ([Flick1024](https://yingqianwang.github.io/Flickr1024/), [Holopix50k](https://leiainc.github.io/holopix50k/)) and light-field datasets ([NTIRE2023](https://github.com/The-Learning-And-Vision-Atelier-LAVA/LF-Image-SR/tree/NTIRE2023), [Stanford](http://lightfields.stanford.edu/LF2016.html)) also can be used.
@@ -27,7 +27,7 @@ Zero-Shot Dual-Lens Super-Resolution
 ## Data Pre-processing
 ### Dependencies
 Please follow README files in the corresponding subfolders to bulid environments for runing.  
-### Real-world Datset
+### Real-world Dataset
 We take wide-angle images SR with telephoto images on iphone11 as example.
 
 * Pre-alignment:
@@ -43,7 +43,7 @@ We take wide-angle images SR with telephoto images on iphone11 as example.
   run ColorIuminanceDir.m
   ```
 
-### Synthesized Datset
+### Synthesized Dataset
 We take 2x downsampling using isotropic Gaussian kernel with slight JPEG compression as example.
 
 
@@ -59,7 +59,7 @@ We take 2x downsampling using isotropic Gaussian kernel with slight JPEG compres
 ****
 
 ## Quick Start
-### Real-world Datset
+### Real-world Dataset
 We take wide-angle images SR with telephoto images on iphone11 as example.
 * Degradation‐invariant Alignment for Dual-lens Images:
   ```
@@ -70,7 +70,7 @@ We take wide-angle images SR with telephoto images on iphone11 as example.
   cd ./SR && sh sr_real.sh
   ```
 
-### Synthesized Datset
+### Synthesized Dataset
 We take 2x downsampling using isotropic Gaussian kernel with slight JPEG compression as example.
 * Degradation‐invariant Alignment for Dual-lens Images:
   ```
