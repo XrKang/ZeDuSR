@@ -22,7 +22,7 @@
 ## Data Pre-processing
 ### Dependencies
 Please follow README files in the corresponding subfolders to bulid environments for runing.  
-### Real-world Datset
+### Real-world Dataset
 We take wide-angle images SR with telephoto images on iphone11 as example.
 
 * Pre-alignment:
@@ -38,7 +38,7 @@ We take wide-angle images SR with telephoto images on iphone11 as example.
   run ColorIuminanceDir.m
   ```
 
-### Synthesized Datset
+### Synthesized Dataset
 We take 2x downsampling using isotropic Gaussian kernel with slight JPEG compression as example.
 
 
@@ -52,11 +52,11 @@ We take 2x downsampling using isotropic Gaussian kernel with slight JPEG compres
 ****
 
 ## Quick Start
-* Real-world Datset
+* Real-world Dataset
   ```
   sh align_real.sh
   ```
-* Synthesized Datset
+* Synthesized Dataset
   ```
   sh align_synth.sh
   ```
