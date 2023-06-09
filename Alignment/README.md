@@ -2,12 +2,12 @@
 ****
 ## Datesets
 
-### Real-world Datset
+### Real-world Dataset
 * The CameraFusion (by iPhone11) dataset can be downloaded from this [link](https://github.com/Tengfei-Wang/DCSR).
 * The RealMCVSR (by iPhone12) dataset can be downloaded from this [link](https://github.com/codeslake/RefVSR).
 
 
-### Synthesized Datset
+### Synthesized Dataset
 * The HCI_new dataset can be downloaded from this [link](https://lightfield-analysis.uni-konstanz.de/).
 * The Middlebury2021 dataset can be downloaded from this [link](https://vision.middlebury.edu/stereo/data/scenes2021/).
 * Other stereo image datasets ([Flick1024](https://yingqianwang.github.io/Flickr1024/), [Holopix50k](https://leiainc.github.io/holopix50k/)) and light-field datasets ([NTIRE2023](https://github.com/The-Learning-And-Vision-Atelier-LAVA/LF-Image-SR/tree/NTIRE2023), [Stanford](http://lightfields.stanford.edu/LF2016.html)) also can be used.
