@@ -30,7 +30,7 @@ Please follow README files in the corresponding subfolders to bulid environments
 ### Real-world Dataset
 We take wide-angle images SR with telephoto images on iphone11 as example.
 
-* Pre-alignment:
+* Pre-Alignment:
   ```
   cd ./RealworldData/PreAlignment && sh run.sh
   ```
